@@ -1,6 +1,6 @@
 * Getting started
-  * [Why does this exist?](why.md)
-  * [I'm new to the team](getting-started/a-warm-welcome.md)
+  * [Why does this exist?](getting-started/why.md)
+  * [New developers read this](getting-started/a-warm-welcome.md)
 
 * Development
   * [Code](development/code.md)
