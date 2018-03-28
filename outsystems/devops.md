@@ -1,0 +1,1 @@
+# Outsystems DevOps Standards

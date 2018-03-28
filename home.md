@@ -1,4 +1,2 @@
-# LGSS Digital Tech Guide
+# LGSS Digital Tech Playbook
 
-
-> An awesome project.
