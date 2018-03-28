@@ -1,0 +1,15 @@
+{
+  "name": "lgss-tech-playbook",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve ."
+  },
+  "author": "Dan Blundell",
+  "license": "MIT",
+  "dependencies": {
+    "docsify": "^4.6.10"
+  }
+}
