@@ -1,0 +1,34 @@
+.sidebar {
+  background: #0B1833;
+  color: #fefefe;
+}
+
+.sidebar-toggle{
+  background-color:transparent;
+}
+
+.sidebar ul li a {
+  color: #fefefe;
+}
+
+.search {
+  background-color: #189E99;
+}
+
+input[type="search"] {
+  background-color: transparent;
+  color: white;
+}
+
+input[type="search"]::placeholder {
+  color: #fefefe;
+}
+
+.search .search-keyword {
+  background: #ff0;
+}
+
+.search a:hover {
+  color: inherit;
+}
+
