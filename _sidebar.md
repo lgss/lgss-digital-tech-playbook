@@ -1,11 +1,19 @@
 * Getting started
-
   * [Why does this exist?](why.md)
+  * [I'm new to the team](getting-started/a-warm-welcome.md)
 
 * Development
   * [Code](development/code.md)
   * [Testing](development/testing.md)
   * [Version Control](development/version-control.md)
+
+* Outsystems
+  * [Getting started](outsystems/getting-started.md)
+  * [Architecture](outsystems/architecture.md)
+  * [Development](outsystems/development.md)
+  * [DevOps](outsystems/devops.md)
+
+  
 
 <!--* Guide
 
