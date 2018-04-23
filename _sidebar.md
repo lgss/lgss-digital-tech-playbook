@@ -1,6 +1,17 @@
 * Getting started
   * [Why does this exist?](getting-started/why.md)
   * [New developers read this](getting-started/a-warm-welcome.md)
+  * [Contributing to the playbook](contributing.md)
+
+* Roles
+  * [Tech roles at LGSS Digital](/roles/00-intro.md)
+  * [Architect](roles/architect.md)
+  * [Apprentice](roles/apprentice.md)
+  * [Developer](roles/developer.md)
+  * [DevOps](roles/devops.md)
+  * [QA](roles/qa.md)
+  * [Tech Lead](roles/tech-lead.md)
+  * [UX](roles/ux.md)
 
 * Development
   * [Code](development/code.md)
