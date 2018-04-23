@@ -1,4 +1,4 @@
-## Tech roles at LGSS Digital
+# Tech roles at LGSS Digital
 
 The role you play and the job title you have are not mutually exclusive. 
 
