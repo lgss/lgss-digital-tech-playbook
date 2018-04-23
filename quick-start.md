@@ -14,7 +14,5 @@
 
 Changes should follow the [version control guidelines](development/version-control.md) for LGSS.
 
-For this project, changes should be merged as Pull Requests to Master branch.
-
-Changes should be QA'd by the person doing the merge.
+You should also follow the [contribution guidelines](contributing.md) for this project.
 
