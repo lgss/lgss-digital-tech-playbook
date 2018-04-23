@@ -7,8 +7,16 @@
   background-color:transparent;
 }
 
+.sidebar li > p {
+  border-bottom: 1px solid #fefefe;
+}
+
 .sidebar ul li a {
   color: #fefefe;
+}
+
+.sidebar .sidebar-nav {
+  padding-right: 1em;
 }
 
 .search {
@@ -30,5 +38,21 @@ input[type="search"]::placeholder {
 
 .search a:hover {
   color: inherit;
+}
+
+/*Link styling for external links*/
+a[href^="https://www.outsystems.com"]::after {
+  content: "";
+  width: 1em;
+  height: 1em;
+  background-image: url(https://pbs.twimg.com/profile_images/807191843943419904/vNCtvRhP_400x400.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  left: 0;
+  top: 0;
+  background-size: 1em;
+  display: inline-block;
+  margin-left: .5em;
+  vertical-align: middle;
 }
 
