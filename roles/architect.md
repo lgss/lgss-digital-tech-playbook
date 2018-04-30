@@ -28,3 +28,5 @@
 * [Server-side performance bottlenecks](https://www.outsystems.com/learn/courses/30/webinar-server-side-performance-bottlenecks/)
 * [Reuse functionality between application modules](https://www.outsystems.com/learn/courses/19/reuse-functionality-between-application-modules/)
 * [Planning your application architecture](https://www.outsystems.com/learn/courses/20/planning-your-application-architecture/)
+
+## Recommended watching
