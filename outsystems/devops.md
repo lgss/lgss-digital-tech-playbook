@@ -24,7 +24,7 @@ Any new modules/features that you have added
 *Example*
 ```
 ## Fixed
-- Resolved issue where addresses weren''t being popuated in dropdown (Modules affected: Address_CW)
+- Resolved issue where addresses are not being popuated in dropdown (Modules affected: Address_CW)
 
 ## Enhanced
 - Changed the email wording for the new appointment booking template (Modules affected: RegistrationsComms_CS)
