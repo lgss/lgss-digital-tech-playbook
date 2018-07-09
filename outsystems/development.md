@@ -12,6 +12,10 @@ These standards have come out of learning and working with the platform and Outs
 ## Data
 
 ### Entities
+Entities should be named in singular form.
+
+> Example: `Case` not `Cases`
+
 All entities must have
 
 * A description.
@@ -40,10 +44,22 @@ When you create an Entity, the default actions are automatically generated. Thes
 ### Static Entities
 As a rule, static entities should be avoided.
 
+## Structures
+Structure naming should contain `Str` as a suffix to avoid clashing with entity naming.
+
+Identifier attributes should be renamed from `Id` to `<Entity>Id`
 
 ## Logic
 
 ### Server Actions 
+Server Actions should be grouped in folders of relvance. For example:
+ 
+* `CREATE`
+* `UPDATE`
+* `GET`
+* `HARDDELETE`
+* `SOFTDELETE`
+
 Server Action names should be in PascalCase so that they can be easily identified.
 
 > Example: `GetCustomerById` not `getCustomerById` 
@@ -53,6 +69,12 @@ Sometimes the obvious Server Action name will clash with the existing deafult En
 For example, a Customer Entity would have a default action of `CreateCustomer`. 
 
 When creating a Server Action to wrap this Entity Action, you won't be able to use `CreateCustomer` as the name of the Server Action. Instead, we use the convention of `Create_Customer` for the name of the Server Action.
+
+Create methods should set created and modified for both `user` and `datetime` attributes.
+
+Update methods should set modified for both `user` and `datetime` attributes.
+
+!> When setting `datetime` attributes, system function `currdatetime()` should be avoided as this is based on server time which is not set to GMT. Instead add dependency `LGSSCommon` and use `currlocaldatetime()`.
 
 ### Creating your Delete<Entity> Server Action
 !> When creating a Server Action that deletes an Entity, **do not** use the default Delete method unless you're absolutely sure what you're doing.
@@ -75,3 +97,14 @@ For example:
 * `caseId`
 * `inputParameter`
 
+## Documentation
+Add a description to all public elements and to their parameters (or attributes in the case of Entities or Structures). For example: 
+
+* Entity
+* Entity Attribute
+* Structure
+* Structure Attribute
+* Server Action
+* Server Action input/output
+* Server Action Folders
+* Server Action Agragate
