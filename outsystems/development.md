@@ -105,6 +105,6 @@ Add a description to all public elements and to their parameters (or attributes 
 * Structure
 * Structure Attribute
 * Server Action
-* Server Action input/output
+* Server Action input/output parameters
 * Server Action Folders
 * Server Action Aggregate
