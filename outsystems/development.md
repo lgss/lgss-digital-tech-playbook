@@ -45,7 +45,7 @@ When you create an Entity, the default actions are automatically generated. Thes
 As a rule, static entities should be avoided.
 
 ## Structures
-Structure naming should contain `Str` as a suffix to avoid clashing with entity naming.
+Structure naming should contain `Str` as a suffix to avoid clashing with an entity naming.
 
 Identifier attributes should be renamed from `Id` to `<Entity>Id`
 
