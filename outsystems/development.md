@@ -20,7 +20,7 @@ All entities must have
 
 * A description.
   * _reason_
-* `isActive` _(boolean)_
+* `IsActive` _(boolean)_
 	* used for 'soft delete' 
 * `CreatedDate` _(DateTime)_
 	* set on create only
@@ -79,9 +79,9 @@ Update methods should set `ModifiedBy` and `ModifiedDate` attributes.
 ### Creating your Delete<Entity> Server Action
 !> When creating a Server Action that deletes an Entity, **do not** use the default Delete method unless you're absolutely sure what you're doing.
 
-Instead, create your Server Action so that it uses an `update` method to set the `isActive` flag to `false`.
+Instead, create your Server Action so that it uses an `Update` method to set the `IsActive` flag to `False`. Naming convention is to call the method `SoftDelete_<Entity>`.
 
-You should also create an `undelete` Server Action to ensure records can be retrieved easily.
+You should also create an `Undelete` Server Action to ensure records can be retrieved easily.
 
 This ensures that records can be deleted in a way that retains the data for Information Management and Retention regulations.
 
