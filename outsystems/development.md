@@ -52,7 +52,7 @@ Identifier attributes should be renamed from `Id` to `<Entity>Id`
 ## Logic
 
 ### Server Actions 
-Server Actions should be grouped in folders of relvance. For example:
+Server Actions should be grouped in folders of relevance. For example:
  
 * `CREATE`
 * `UPDATE`
