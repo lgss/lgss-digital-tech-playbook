@@ -107,4 +107,4 @@ Add a description to all public elements and to their parameters (or attributes 
 * Server Action
 * Server Action input/output
 * Server Action Folders
-* Server Action Agragate
+* Server Action Aggregate
