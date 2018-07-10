@@ -70,11 +70,11 @@ For example, a Customer Entity would have a default action of `CreateCustomer`.
 
 When creating a Server Action to wrap this Entity Action, you won't be able to use `CreateCustomer` as the name of the Server Action. Instead, we use the convention of `Create_Customer` for the name of the Server Action.
 
-Create methods should set created and modified for both `user` and `datetime` attributes.
+Creation methods should set the `CreatedBy`, `CreatedDate`, `ModifiedBy` and `ModifiedDate` attributes.
 
-Update methods should set modified for both `user` and `datetime` attributes.
+Update methods should set `ModifiedBy` and `ModifiedDate` attributes.
 
-!> When setting `datetime` attributes, system function `currdatetime()` should be avoided as this is based on server time which is not set to GMT. Instead add dependency `LGSSCommon` and use `currlocaldatetime()`.
+!> When setting `DateTime` attributes, system function `CurrDateTime()` should be avoided as this is based on the server time which does not take into account daylight savings. Instead add dependency `LGSSFunctions` and use `CurrLocalDateTime()`.
 
 ### Creating your Delete<Entity> Server Action
 !> When creating a Server Action that deletes an Entity, **do not** use the default Delete method unless you're absolutely sure what you're doing.
