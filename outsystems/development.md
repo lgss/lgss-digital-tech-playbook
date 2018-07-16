@@ -132,4 +132,17 @@ To complement the structure a blank function with an output of the entity refere
 
 ![](../assets/images/outsystems/onNotify/onNotify_7.png "Entity reference function")
 
+Bearing this in mind all `Notify` actions should look something like this, with the entity reference function determining the type of `Notify`: 
+
+![](../assets/images/outsystems/onNotify/onNotify_8.png "Example notify action")
+
+The receiving `OnNotify` UI screen action should look like this:
+
+![](../assets/images/outsystems/onNotify/onNotify_9.png "Example OnNotify action receiving data")
+
+or
+
+![](../assets/images/outsystems/onNotify/onNotify_4.png "More complicated OnNotify action")
+
+
 
