@@ -109,6 +109,18 @@ Add a description to all public elements and to their parameters (or attributes 
 * Server Action Folders
 * Server Action Aggregate
 
+### Making API Calls
+Outsystems' default TLS protocol is 1.0. To add TLS 1.2 first create a new `OnBeforeRequest` method.
+
+![](../assets/images/outsystems/apiCalls/apiCalls_1.png "Add OnBeforeRequest method")
+
+Then drag the `AddTls12` method from the `ManageSecurityProtocols` extension module. You may have to add this as a dependency if it is not available.
+
+![](../assets/images/outsystems/apiCalls/apiCalls_2.png "Add TLS 1.2")
+
+And that's it! Every request made to "ExampleAPI" in this example will now use TLS 1.2. 
+
+
 ### How to use _Notify_ with web blocks
 If a web block needs to interact or send data back to the UI layer it can do this with the `Notify` server action, found in the `(System)` dependencies. A common example is viewing a specific record from a list. The list web block notifies the UI of ID of the current record and feeds that to a View screen which renders with information based on that record's ID.
 
