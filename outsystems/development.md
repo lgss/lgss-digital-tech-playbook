@@ -108,3 +108,53 @@ Add a description to all public elements and to their parameters (or attributes 
 * Server Action input/output parameters
 * Server Action Folders
 * Server Action Aggregate
+
+### Making API Calls
+Outsystems' default TLS protocol is 1.0. To add TLS 1.2 first create a new `OnBeforeRequest` method.
+
+![](../assets/images/outsystems/apiCalls/apiCalls_1.png "Add OnBeforeRequest method")
+
+Then drag the `AddTls12` method from the `ManageSecurityProtocols` extension module. You may have to add this as a dependency if it is not available.
+
+![](../assets/images/outsystems/apiCalls/apiCalls_2.png "Add TLS 1.2")
+
+And that's it! Every request made to "ExampleAPI" in this example will now use TLS 1.2. 
+
+
+### How to use _Notify_ with web blocks
+If a web block needs to interact or send data back to the UI layer it can do this with the `Notify` server action, found in the `(System)` dependencies. A common example is viewing a specific record from a list. The list web block notifies the UI of ID of the current record and feeds that to a View screen which renders with information based on that record's ID.
+
+`Notify` has a parameter `Message` which takes the data as a string and sends it up a layer. 
+
+![](../assets/images/outsystems/onNotify/onNotify_10.png "Notify server action")
+
+To notify structured data you will first have to JSON serialize it.
+
+![](../assets/images/outsystems/onNotify/onNotify_11.png "Serializing a data structure")
+
+Every web block has an `OnNotify` event handler which catches whenever a `Notify` action is triggered.
+
+![](../assets/images/outsystems/onNotify/onNotify_1.png "OnNotify event handler")
+
+The `OnNotify` server action in the UI can access the data using the `NotifyGetMessage` server action. Because the UI only has one event handler to handle all notify events, if a web block has more than one `Notify` action it can get messy. To get around this each Core Service module should have a structure called `EntityReference_<ModuleName>`. Each entity in the Core Service should have a corresponding attribute in this structure. Each attribute's data type should be _Text_ and the _Default Value_ should be the name of the entity.
+
+![](../assets/images/outsystems/onNotify/onNotify_6.png "Entity reference structure")
+
+To complement the structure a blank function with an output of the entity reference structure should be set up. This way the name of the entity can be referenced programmatically.
+
+![](../assets/images/outsystems/onNotify/onNotify_7.png "Entity reference function")
+
+Bearing this in mind all `Notify` actions should look something like this, with the entity reference function determining the type of `Notify`: 
+
+![](../assets/images/outsystems/onNotify/onNotify_8.png "Example notify action")
+
+The receiving `OnNotify` UI screen action should look like this:
+
+![](../assets/images/outsystems/onNotify/onNotify_9.png "Example OnNotify action receiving data")
+
+or
+
+![](../assets/images/outsystems/onNotify/onNotify_4.png "More complicated OnNotify action")
+
+
+
