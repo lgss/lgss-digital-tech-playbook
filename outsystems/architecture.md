@@ -36,3 +36,15 @@ _For example_
 	* PAYMENT INTEGRATION could have a module called PAYPAL_IS (integration service)
 	* PAYMENT INTEGRATION could also have a module called WORLDPAY_IS (integration service)
 	* PARKING SERVICE could have a module called PARKING_CS (core service)
+
+### Core Layer
+
+#### Core Services
+* [ ] _TODO_ - write this section
+
+#### Core Widgets
+* [ ] _TODO_ - write this section 
+
+The naming convention for modules in the Core Layer that contain reusable web blocks is `<ModuleName>_CW` e.g. `Scheduler_CW`.
+
+Any CW module should contain web blocks that take in specific parameters which get determined from the business logic in the UI layer and perform generic functionality.
