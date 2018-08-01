@@ -21,7 +21,7 @@ All entities must have
 * A description.
   * _reason_
 * `IsActive` _(boolean)_
-	* used for 'soft delete' 
+	* used for 'soft delete'
 * `CreatedDate` _(DateTime)_
 	* set on create only
 * `ModifiedDate` _(DateTime)_
