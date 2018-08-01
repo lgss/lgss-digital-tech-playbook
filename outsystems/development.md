@@ -22,6 +22,8 @@ Entities should be named in singular form.
 
 > Example: `Case` not `Cases`
 
+Entities should have a relevant description.
+
 All entities must have
 
 * A description.
