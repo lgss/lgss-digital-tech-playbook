@@ -3,8 +3,8 @@
 ### Skills
 
 ### Tech leads
-* Have mastered everything on the [developer](developer.md) skills list
-* Are actively working through the [architect](architect.md) skills list
+* Have mastered everything on the [developer](roles/developer.md) skills list
+* Are actively working through the [architect](roles/architect.md) skills list
 * Know how to monitor and reduce page size
 * Know how to reduce the size of page resources to load and cache them
 * Know how to reduce the data fetched from the database
