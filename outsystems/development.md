@@ -6,8 +6,14 @@ These standards have come out of learning and working with the platform and Outs
 ## Applications
 * [ ] _TODO_ - write this section
 
+### Descriptions
+ToDo
+
 ## Modules
 * [ ] _TODO_ - write this section
+
+### Descriptions
+ToDo
 
 ## Data
 
@@ -44,10 +50,16 @@ When you create an Entity, the default actions are automatically generated. Thes
 ### Static Entities
 As a rule, static entities should be avoided.
 
+### Descriptions
+ToDo
+
 ## Structures
 Structure naming should contain `Str` as a suffix to avoid clashing with an entity's name.
 
 Identifier attributes should be renamed from `Id` to `<Entity>Id`
+
+### Descriptions
+ToDo
 
 ## Logic
 
@@ -85,10 +97,19 @@ You should also create an `Undelete` Server Action to ensure records can be retr
 
 This ensures that records can be deleted in a way that retains the data for Information Management and Retention regulations.
 
+### Descriptions
+ToDo
+
 ## Interface (UI)
+
+### Descriptions
+ToDo
 
 
 ## Processes and Timers
+
+### Descriptions
+ToDo
 
 ## Variables
 Variable names should be in camelCase.
@@ -96,6 +117,9 @@ Variable names should be in camelCase.
 For example:
 * `caseId`
 * `inputParameter`
+
+### Descriptions
+ToDo
 
 ## Documentation
 Add a description to all public elements and to their parameters (or attributes in the case of Entities or Structures). For example: 
@@ -156,5 +180,6 @@ or
 
 ![](../assets/images/outsystems/onNotify/onNotify_4.png "More complicated OnNotify action")
 
-
+### Descriptions
+ToDo
 
