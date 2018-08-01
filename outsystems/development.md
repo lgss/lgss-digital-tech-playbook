@@ -30,14 +30,19 @@ All entities must have
   * _reason_
 * `IsActive` _(boolean)_
 	* used for 'soft delete' 
+    * Description: _Only active records should be displayed to the user. Rather then hard deletion items should be soft deleted and this attribute set to False._
 * `CreatedDate` _(DateTime)_
 	* set on create only
+    * Description: _DateTime the record was created_
 * `ModifiedDate` _(DateTime)_
 	* set every time the Entity is modified
+    * Description: _DateTime the record was last modified_
 * `CreatedBy` _(UserIdentifier)_
 	* set on create only
+    * Description: _Who the record was created by_
 * `ModifiedBy` _(UserIdentifier)_
 	* set every time the Entity is modified
+    * Description: _Who the record was last modified by_
 
 #### Default Entity Actions
 When you create an Entity, the default actions are automatically generated. These should not be used.
