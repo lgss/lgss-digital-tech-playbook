@@ -19,7 +19,7 @@ _For example_
 **Cyclic dependencies are avoided**
 
 _For example_
-* Module 1 is consumed by Module 2. Module 2 is consumed by Module 3. Module 3 should not consume Module 1. Cases of cyclic dependency will be identified by [Discovery](https://lgss-dev.outsystemsenterprise.com/Discovery/)
+* Module 1 is consumed by Module 2. Module 2 is consumed by Module 3. Module 3 should not consume Module 1. Cyclical dependencies will be identified by [Discovery](https://lgss-dev.outsystemsenterprise.com/Discovery/)
 
 ## Applications and Modules
 Applications contain at least one module, some may contain many modules.
@@ -51,9 +51,9 @@ _For example_
 
 The naming convention for modules in the Core Layer that contain the data structure and the bulk of the CRUD methods is `<ModuleName>_CS` e.g. `Payment_CS`.
 
-Core Services modules may consume other Core Service modules, however cyclic dependencies should still be avoided.
+Core Services modules may consume other Core Service modules, however cyclical dependencies should still be avoided.
 
-These modules should only contain data and logic, and hence oughtn't consume any Ui modules such as a Core Widget
+These modules should only contain data and logic, and so shouldn't consume any modules with UI elements such as a Core Widget
 
 #### Core Widgets
 * [ ] _TODO_ - write this section 
@@ -64,6 +64,6 @@ Any CW module should contain web blocks that take in specific parameters that ar
 
 ### Library Layer
 
-Modules that integrate resources external to OutSystems belong in these layers. These modules should never need to consume another module, and so form the base layer of the hierarchy .
+Modules that integrate resources external to OutSystems belong in these layers. These modules should never need to consume another core layer module, and so form the base layer of the hierarchy.
 
 Integration modules in this layer implement external resources into OutSystems. Consumer modules in the Core layer can then utilise these external resources as if they were just another OutSystems resource.
