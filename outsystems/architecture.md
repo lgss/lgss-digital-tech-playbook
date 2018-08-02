@@ -19,7 +19,7 @@ _For example_
 **Cyclic dependencies are avoided**
 
 _For example_
-* Module 1 is consumed by Module 2. Module 2 is consumed by Module 3. Module 3 should not consume Module 1. Cases of cyclic depedency will be identified by [Discovery](https://lgss-dev.outsystemsenterprise.com/Discovery/)
+* Module 1 is consumed by Module 2. Module 2 is consumed by Module 3. Module 3 should not consume Module 1. Cases of cyclic dependency will be identified by [Discovery](https://lgss-dev.outsystemsenterprise.com/Discovery/)
 
 ## Applications and Modules
 Applications contain at least one module, some may contain many modules.
