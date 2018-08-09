@@ -31,6 +31,8 @@ All entities must have
 * `ModifiedBy` _(UserIdentifier)_
 	* set every time the Entity is modified
 
+When creating your Entity, you should also go into the More... section and expand the More Options drop down. Under the `Is Active Attribute`, select your `IsActive` attribute from the list. This will allow Outsystems to automatically set a filter on your aggregates of `isActive = true`
+
 #### Default Entity Actions
 When you create an Entity, the default actions are automatically generated. These should not be used.
 
