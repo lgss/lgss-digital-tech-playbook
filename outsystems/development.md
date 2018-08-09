@@ -6,8 +6,14 @@ These standards have come out of learning and working with the platform and Outs
 ## Applications
 * [ ] _TODO_ - write this section
 
+### Descriptions
+ToDo
+
 ## Modules
 * [ ] _TODO_ - write this section
+
+### Descriptions
+ToDo
 
 ## Data
 
@@ -16,20 +22,31 @@ Entities should be named in singular form.
 
 > Example: `Case` not `Cases`
 
+Entities should have a relevant description.
+
 All entities must have
 
 * A description.
   * _reason_
 * `IsActive` _(boolean)_
+<<<<<<< HEAD
 	* used for 'soft delete'
+=======
+	* used for 'soft delete' 
+    * Description: _Only active records should be displayed to the user. Rather then hard deletion items should be soft deleted and this attribute set to False._
+>>>>>>> 6e882e987902d656a5e8945d18db01044680e388
 * `CreatedDate` _(DateTime)_
 	* set on create only
+    * Description: _DateTime the record was created_
 * `ModifiedDate` _(DateTime)_
 	* set every time the Entity is modified
+    * Description: _DateTime the record was last modified_
 * `CreatedBy` _(UserIdentifier)_
 	* set on create only
+    * Description: _Who the record was created by_
 * `ModifiedBy` _(UserIdentifier)_
 	* set every time the Entity is modified
+    * Description: _Who the record was last modified by_
 
 When creating your Entity, you should also go into the More... section and expand the More Options drop down. Under the `Is Active Attribute`, select your `IsActive` attribute from the list. This will allow Outsystems to automatically set a filter on your aggregates of `isActive = true`
 
@@ -46,10 +63,16 @@ When you create an Entity, the default actions are automatically generated. Thes
 ### Static Entities
 As a rule, static entities should be avoided.
 
+### Descriptions
+ToDo
+
 ## Structures
 Structure naming should contain `Str` as a suffix to avoid clashing with an entity's name.
 
 Identifier attributes should be renamed from `Id` to `<Entity>Id`
+
+### Descriptions
+ToDo
 
 ## Logic
 
@@ -87,10 +110,19 @@ You should also create an `Undelete` Server Action to ensure records can be retr
 
 This ensures that records can be deleted in a way that retains the data for Information Management and Retention regulations.
 
+### Descriptions
+ToDo
+
 ## Interface (UI)
+
+### Descriptions
+ToDo
 
 
 ## Processes and Timers
+
+### Descriptions
+ToDo
 
 ## Variables
 Variable names should be in camelCase.
@@ -98,6 +130,9 @@ Variable names should be in camelCase.
 For example:
 * `caseId`
 * `inputParameter`
+
+### Descriptions
+ToDo
 
 ## Documentation
 Add a description to all public elements and to their parameters (or attributes in the case of Entities or Structures). For example: 
@@ -158,5 +193,6 @@ or
 
 ![](../assets/images/outsystems/onNotify/onNotify_4.png "More complicated OnNotify action")
 
-
+### Descriptions
+ToDo
 
