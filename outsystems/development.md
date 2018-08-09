@@ -29,12 +29,8 @@ All entities must have
 * A description.
   * _reason_
 * `IsActive` _(boolean)_
-<<<<<<< HEAD
-	* used for 'soft delete'
-=======
 	* used for 'soft delete' 
     * Description: _Only active records should be displayed to the user. Rather then hard deletion items should be soft deleted and this attribute set to False._
->>>>>>> 6e882e987902d656a5e8945d18db01044680e388
 * `CreatedDate` _(DateTime)_
 	* set on create only
     * Description: _DateTime the record was created_
