@@ -111,11 +111,11 @@ This ensures that records can be deleted in a way that retains the data for Info
 
 The adopted standard for filtering an aggregate by an input parameter uses the following syntax.
 
->Example: `{inputParameter}=nullidentifier() or ({inputParameter}<>nullidentifier() and {entity.attribute} = {inputParameter})`
+>Example: `{inputParameter} = NullIdentifier() or ({inputParameter} <> NullIdentifier() and {Entity.Attribute} = {inputParameter})`
 
 ### Limiting record count
 
-Aggregates without a record limit can potentially attempt to return infinite results. To avoid this each aggregate has a `Max. Records` property which should be set to a sensbile value. Outsystems will recommend that aggregates which are the source for lists widgets have this value to set to match the number of records presented by the list.
+Aggregates without a record limit can potentially attempt to return infinite results. To avoid this each aggregate has a `Max Records` property which should be set to a sensible value. Outsystems will recommend that aggregates which are the source for lists widgets have this value to set to match the number of records presented by the list. Likewise if you are only expecting 1 record it makes sense to set `Max Records` to 1.
 
 ### Descriptions
 ToDo
