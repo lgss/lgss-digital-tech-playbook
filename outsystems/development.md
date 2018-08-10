@@ -104,6 +104,19 @@ You should also create an `Undelete` Server Action to ensure records can be retr
 
 This ensures that records can be deleted in a way that retains the data for Information Management and Retention regulations.
 
+## Aggregates
+
+
+### Filtering
+
+The adopted standard for filtering an aggregate by an input parameter uses the following syntax.
+
+>Example: `{inputParameter}=nullidentifier() or ({inputParameter}<>nullidentifier() and {entity.attribute} = {inputParameter})`
+
+### Limiting record count
+
+Aggregates without a record limit can potentially attempt to return infinite results. To avoid this each aggregate has a `Max. Records` property which should be set to a sensbile value. Outsystems will recommend that aggregates which are the source for lists widgets have this value to set to match the number of records presented by the list.
+
 ### Descriptions
 ToDo
 
