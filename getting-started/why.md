@@ -1,4 +1,4 @@
-# A tech playbook? Why?
+# A tech playbook. Why?
 
 LGSS Digital is a distributed team across multiple sites. It is important when we work together to approach things in a consistent manner.
 
