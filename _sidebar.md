@@ -15,6 +15,7 @@
 
 * Development
   * [Code](development/code.md)
+  * [Tech Review](development/tech-review.md)
   * [Testing](development/testing.md)
   * [Version Control](development/version-control.md)
 
