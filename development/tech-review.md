@@ -17,7 +17,7 @@ The format of a tech review meet should be:
 1. **Demonstrate the functionality from a Users perspective [Scrum team] (time cap: 15 minutes)**
   <br/>_Purpose: a shared understanding of the solution implemented_
 1. **Present the Architecture Slide Deck [Devs] (time cap: 15 minutes)**
-  <br/>_Purpose: a shared understanding of the technical design thinking_
+  <br/>_Purpose: a shared understanding of the technical design thinking_ * <a href='/assets/files/LGSS - -ADD_PROJECT_NAME - TEMPLATE- - Deployment Document.pptx'>Slide deck download</a>
 1. **Deep dive on the implementation, code and components [Devs]**
   <br/>_Purpose: an opportunity to reduce technical debt and maintain the highest level of quality_
 1. **Q&A [All]**
