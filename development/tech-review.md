@@ -10,10 +10,10 @@ The format of a tech review meet should be:
 
 1. **What is a tech review [SM/DSA/Tech Lead] (time cap: 5 minutes)**
   <br/>_Purpose: a shared understanding of why we do tech reviews_
-1. **Explain where the project is at [SM/DSA] (time cap: 5 minutes)**
-  <br/>_Purpose: a shared understanding of timeline context_
 1. **Overview of the service and solution proposition [Scrum team] (time cap: 15 minutes)**
   <br/>_Purpose: a shared understanding of the ultimate goal and value proposition_
+1. **Explain where the project is at [SM/DSA] (time cap: 5 minutes)**
+  <br/>_Purpose: a shared understanding of timeline context_
 1. **Demonstrate the functionality from a Users perspective [Scrum team] (time cap: 15 minutes)**
   <br/>_Purpose: a shared understanding of the solution implemented_
 1. **Present the Architecture Slide Deck [Devs] (time cap: 15 minutes)**
