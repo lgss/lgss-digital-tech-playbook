@@ -13,6 +13,10 @@
   * [Tech Lead](roles/tech-lead.md)
   * [UX](roles/ux.md)
 
+* Support
+  * [Operations](support/operations.md)
+  * [Handling tickets](support/handling-tickets.md)
+
 * Development
   * [Code](development/code.md)
   * [Tech Review](development/tech-review.md)
