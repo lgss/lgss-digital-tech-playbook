@@ -14,8 +14,9 @@
   * [UX](roles/ux.md)
 
 * Support
-  * [Operations](support/operations.md)
-  * [Handling tickets](support/handling-tickets.md)
+  * [Ops overview](support/operations.md)
+  * [How to handle support tickets](support/handling-tickets.md)
+  * [How to handle changes](support/handling-changes.md)
 
 * Development
   * [Code](development/code.md)
