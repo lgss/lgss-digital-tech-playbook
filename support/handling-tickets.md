@@ -12,7 +12,7 @@ Triaging is done by a lead developer, scrum master or other rota'd Operations Le
 
 The Operations Lead will either 
 1. add a `Note` to the ticket with a minimum of the word `Approved` if the ticket is deemed support work
-1. add a `Note` to the with `Project` if the ticket is deemed project work. 
+1. add a `Note` to the ticket with `Project` if the ticket is deemed project work. 
   1. The operations lead will then communicate to the user
   1. Move the ticket information to a project backlog
   1. Resolve the ticket
