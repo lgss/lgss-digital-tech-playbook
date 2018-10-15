@@ -32,6 +32,7 @@ The Operations Lead will either
 1. If a ticket has an note on it as `Approved`, it's already been triaged to be fixed under support so you can fix it
 1. If a ticket is `Approved` and unassigned to a person, take ownership of the ticket
 1. Once you've taken ownership of a ticket, see it through to completion, even if you don't understand it fully from the beginning
+1. Use the [documentaion](support/documentation.md) to help you resolve the users problem
 1. Talk to the team about how to fix support tickets, it's encouraged, you are not alone.
 1. Update the user at least once a day. Even if there's no change, we're providing an experience. Users are happier knowing someone is handling their query, even if there's been no change.
 1. You _should_ only take ownership a maximum of three tickets at a time but it's understandable if you have more for a short period of time. You should speak to the Operations Lead if you have too many to manage.
