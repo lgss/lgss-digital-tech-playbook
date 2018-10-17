@@ -2,7 +2,7 @@
 
 ## How we think of Ops
 
-!> We don't have a tiered approach to operations and support, there is no first or second line, we are it.<br/><br/>Instead, we operate what's known as 'Swarm' support model - work with your friends to fix the problem, our users are our service so if they have a problem, we have a problem.<br/><br/>The goal is not to get rid of the ticket, it's to get rid of the problem and that means resolving the issue.
+!> We don't have a tiered approach to operations and support, there is only the first line support of service desk, beyond that we are it.<br/><br/>Instead, we operate what's known as 'Swarm' support model - work with your friends to fix the problem, our users are our service so if they have a problem, we have a problem.<br/><br/>The goal is not to get rid of the ticket, it's to get rid of the problem and that means resolving the issue.
 
 Support and operations is the most important part of our service. and **It's everyone's job to support the services we build.**
 
@@ -33,8 +33,11 @@ For each service we manage we measure
 * Cumulative flow
   - how many tickets resolved vs created in a given period
 * Reason for failure
+  - the what or why of the failure
+* Service uptime
+  - what percentage of time is the service available to be used by users
 * Mean time to failure (MTTF)
-  - aka “uptime”
+  - the mean average time between unique failures
 * Mean time to Recovery (MTTR)
   - the average time it takes to fix a problem
 * Mean time to detect (MTTD)
