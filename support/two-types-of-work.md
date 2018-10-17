@@ -6,6 +6,8 @@ There are two types of work in IT Operations.
 
 ?> Scheduled work or 'Operational changes' are fixed and generally planned improvements that should be tested, communicated and actioned with the most care you can think of.
 
+These changes could be upgrades to a platform, server updates, network changes as well as maintenance on shared modules or libraries.
+
 These kinds of changes are especially relevant to our service because we reuse alot of the features we build across different applications, services and customers.
 
 1. No guesswork. Know the impact of your change before you make it by staging changes in Dev/QA environments like-for-like
