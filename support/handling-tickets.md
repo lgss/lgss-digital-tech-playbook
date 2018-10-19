@@ -1,5 +1,7 @@
 # How we handle support tickets
-Support tickets are logged in Lets Go Direct (LANDesk).
+Support tickets are logged in Lets Go Direct (LANDesk), although tickets at MKC are handled differently [*](#mkc-tickets).
+
+<small><a id="mkc-tickets">*</a> Support tickets at MKC are currently handled in an inbox, this may change in future to allow the whole team to work on these.</small>
 
 LGD has it's own interesting 'features' that both help and hinder communication with users and ticket management, that said, our way of handling these tickets is designed to avoid some of that pain.
 
