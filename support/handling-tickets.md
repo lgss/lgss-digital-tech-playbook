@@ -38,3 +38,12 @@ The Operations Lead will either
 1. You _should_ only take ownership a maximum of three tickets at a time but it's understandable if you have more for a short period of time. You should speak to the Operations Lead if you have too many to manage.
 1. If you're not working on support the following working day, reassign your tickets back to the `LGSS-IT-Digital` group (or a specific person if you've agree that with them) as someone else could pick them up
 1. At any point, if the request in a ticket to something that will take more than 3 days to complete without prior arrangement, raise this with the Operations Lead to help work out how it should be resolved.
+
+## How to log your time
+
+Time spent on support and ops tasks should be logged on your timesheet.
+
+1. There's a project under your timesheet called `Support and Operations`
+1. There's then a task for each service we support, **log your time there.**
+1. If the service you worked on isn't listed, shout in the `#lgss-digital-support` slack channel to get it added
+1. There are also Harvest timers available for your desktop and browser to make it easier if you're that way inclined.
