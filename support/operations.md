@@ -16,7 +16,7 @@ We treat Ops like a project, this way everyone gets to experience the issues tha
 
 As with our other projects, there's a daily stand up, measurements and an owner. Ops is no different.
 
-The owner of Ops is the Operations Lead which, for the time being, is the Digital Technolgies Manager.
+The owner of Ops is the Operations Lead which, for the time being, is the Digital Technologies Manager.
 
 ### I'm not on a project, what do I do?
 1. Attend the [daily call](support/ops-stand-up.md)
