@@ -13,6 +13,13 @@
   * [Tech Lead](roles/tech-lead.md)
   * [UX](roles/ux.md)
 
+* Support
+  * [Ops overview](support/operations.md)
+  * [How to handle support tickets](support/handling-tickets.md)
+  * [How to handle changes](support/handling-changes.md)
+  * [Documentation](support/documentation.md)
+  * [Types of work in Ops](support/two-types-of-work.md)
+
 * Development
   * [Code](development/code.md)
   * [Tech Review](development/tech-review.md)
