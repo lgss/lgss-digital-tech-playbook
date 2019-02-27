@@ -23,6 +23,10 @@ body {
   padding-right: 1em;
 }
 
+.sidebar:hover::-webkit-scrollbar {
+  width: 10px;
+}
+
 .search {
   background-color: #189E99;
 }
