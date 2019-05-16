@@ -5,12 +5,13 @@
 
 * Roles
   * [Tech roles at LGSS Digital](/roles/00-intro.md)
-  * [Architect](roles/architect.md)
-  * [Apprentice](roles/apprentice.md)
+  * [Developer 0](roles/developer0.md)
   * [Developer](roles/developer.md)
+  * [Senior Developer](roles/senior.md)
+  * [Lead Developer](roles/leaddev.md)
+  * [Architect](roles/architect.md)
   * [DevOps](roles/devops.md)
   * [QA](roles/qa.md)
-  * [Tech Lead](roles/tech-lead.md)
   * [UX](roles/ux.md)
 
 * Support
