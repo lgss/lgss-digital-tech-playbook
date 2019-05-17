@@ -23,6 +23,6 @@
 * Our Team - To be able to offer support, improved ways of working and personal development
 * Wider DevOps Community - to identify good practices we can adopt and share our experiences
 
-## We speak
+## We speak...
 * LGSS and its customers - to be an ambassador for digital services and demonstrate our qualities
 * Our Team - To share knowledge of tools and techniques, and improve our way of working

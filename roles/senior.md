@@ -26,7 +26,7 @@
 * the management team so that we are clear about our strategic vision. In our role it’s important to champion the team’s values and beliefs to set the right example.
 
 
-## We speak
+## We speak...
 
 * to our peers about their aspirations, projects and difficulties. Asking the right questions and providing thoughtful feedback are essential to the development of both an individual and the team.
 * with tech leads to ensure that our own technical decisions are consistent and competent.

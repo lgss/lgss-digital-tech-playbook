@@ -23,7 +23,7 @@
 * Our tutor during training sessions to attain the knowledge needed to successfully complete my apprenticeship
 
 
-## We speak
+## We speak...
 * Just about everyone, we’re very social creatures.
 * Tech leads about our aspirations and what technologies we are interested in as a developer.
 * Scrum master about projects we are working on and any blockers we may encounter.

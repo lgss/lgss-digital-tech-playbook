@@ -24,7 +24,7 @@
 * to scrum masters to ensure projects are on track and delivered in scope and on time!
 * to the management team so that we are clear about our strategic vision. 
 
-## We speak
+## We speak...
 * with the rest of the Digital team using slack and email, discussing development or support issues.
 * with tech leads and scrum masters to update on project progress and to discuss any development issues or problems faced in projects.
 * to the whole Digital team to celebrate success, feedback on achievements and problems faced in projects.

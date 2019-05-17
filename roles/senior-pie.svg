@@ -9,15 +9,15 @@
     skills = [
         {
             name: "Project",
-            percent: 50
+            percent: 75
         },
         {
             name: "Peer development",
-            percent: 25
+            percent: 12.5
         },
         {
             name: "Personal development",
-            percent: 25
+            percent: 12.5
         }
     ]
     //******************END OF CONFIG********************
