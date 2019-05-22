@@ -1,7 +1,6 @@
 # Developer Zero 
 
 ## Expectations
-* To enrol and successfully obtain developer apprenticeship qualification
 * To absorb knowledge and experience from peers to aid our personal development  and improve our development abilities.
 * To contribute to conversations and assist with planning of project work.
 * To work with the delivery team to produce products that meet our customers needs and hold our team values.
@@ -20,7 +19,6 @@
 ## We listen to...
 * The team so we can gain knowledge and learn from their experiences.
 * The project tech lead because they have the most experience and have the best technical knowledge for a successful implementation.
-* Our tutor during training sessions to attain the knowledge needed to successfully complete my apprenticeship
 
 
 ## We speak...
