@@ -28,4 +28,4 @@
 * with the rest of the Digital team using slack and email, discussing development or support issues.
 * with tech leads and scrum masters to update on project progress and to discuss any development issues or problems faced in projects.
 * to the whole Digital team to celebrate success, feedback on achievements and problems faced in projects.
-* with our line manager to talk about any further issues or difficulties we may have.
+* with our capabilities manager to talk about any issues or difficulties we have, and for general support, development and wellbeing.
