@@ -2,8 +2,8 @@
 
 ## Expectations
 
-* Ensure that LGSS and its customers design and build digital services that are easy to use, reliable and secure.
-* Support LGSS and its customers by ensuring that digital technology meets the needs of users, and working across the digital team to ensure that all services are developed to meet user needs. 
+* Ensure that LGSS and its customers design and build digital services that are easy to use, reliable and secure.
+* Support LGSS and its customers by ensuring that digital technology meets the needs of users, and working across the digital team to ensure that all services are developed to meet user needs.
 * Take a lead role on various delivery teams developing user centred, beautiful and secure digital services and software.
 * Help LGSS and its customers with through the development, deployment and support of digital services and applications from idea to production and beyond.
 * Provide support and mentorship to others in the digital services team.

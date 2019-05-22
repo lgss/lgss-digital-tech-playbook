@@ -2,10 +2,10 @@
 # Lead Developer 
 
 ## Expectations
-* Lead LGSS and its customers through the development, deployment and support of digital services and applications from idea to production and beyond.
-* Support LGSS and its customers by ensuring that digital technology meets the needs of users, and working across the digital team to ensure that all services are developed to meet user needs. 
-* Take a lead role on various delivery teams developing user centred, beautiful and secure digital services and software. 
-* Provide leadership and mentorship to others in the digital services team.Be an ambassador for digital services and experiences of the highest quality across LGSS and its customers
+* Lead LGSS and its customers through the development, deployment and support of digital services and applications from idea to production and beyond.
+* Support LGSS and its customers by ensuring that digital technology meets the needs of users, and working across the digital team to ensure that all services are developed to meet user needs.
+* Take a lead role on various delivery teams developing user centred, beautiful and secure digital services and software. 
+* Provide leadership and mentorship to others in the digital services team.Be an ambassador for digital services and experiences of the highest quality across LGSS and its customers
 
 ## Availability
 <object data="/roles/lead-pie.svg" type="image/svg+xml" width="650" height="230"></object>
