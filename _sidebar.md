@@ -11,8 +11,6 @@
   * [Lead Developer](roles/leaddev.md)
   * [Architect](roles/architect.md)
   * [DevOps](roles/devops.md)
-  * [QA](roles/qa.md)
-  * [UX](roles/ux.md)
 
 * Support
   * [Ops overview](support/operations.md)
