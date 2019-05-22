@@ -30,3 +30,4 @@
 
 * to our peers about their aspirations, projects and difficulties. Asking the right questions and providing thoughtful feedback are essential to the development of both an individual and the team.
 * with tech leads to ensure that our own technical decisions are consistent and competent.
+* with the Capabilities Manager. Working together, we will ensure a consistent approach between our internal peer development and any training courses and qualifications.
