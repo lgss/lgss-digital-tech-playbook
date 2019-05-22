@@ -26,4 +26,4 @@
 * To the business about what they plan to do in the coming months/years. To get a feel for their direction and what work could be coming our way.
 * To our peers about their aspirations, projects and difficulties. Asking the right questions and providing thoughtful feedback are essential to the development of both an individual and the team.
 * With tech leads to ensure that our own technical decisions are consistent and competent.
-* With the Capabilities Managers. Working together, we will ensure a consistent approach between our internal peer development and any training courses and qualifications.
+* With the Capabilities Manager. Working together, we will ensure a consistent approach between our internal peer development and any training courses and qualifications.
