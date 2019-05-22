@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="height: 230px; width: 650px; font-family: sans-serif" 
+   xmlns="http://www.w3.org/2000/svg">
+    <script type="text/javascript">
+    // <![CDATA[
+    //******************CONFIGURE HERE********************
+    skills = [
+        {
+            name: "Project",
+            percent: 50
+        },
+        {
+            name: "Peer development",
+            percent: 25
+        },
+        {
+            name: "Personal development",
+            percent: 25
+        }
+    ]
+    //******************END OF CONFIG********************
+    percentages = []
+    palette = [
+        "#189E99",
+        "#78C486",
+        "#0B1833",
+        "#C09102",
+        "#f36f14",
+        "#ebcb38",
+        "#a2b968"
+    ]
+
+    svg = document.getElementsByTagName("svg")[0];
+
+    cumulative = 0
+    for (i = 0; i < skills.length; i++) {
+        cumulative += skills[i].percent
+        if (i == skills.length - 1) 
+            cumulative += 5; // Fix a sometimes rendering bug where it isn't 100% closed
+        percentages.push(cumulative * 5)
+
+        rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+        rect.setAttribute("width", 64);
+        rect.setAttribute("height", 26);
+        rect.setAttribute("x", 250);
+        rect.setAttribute("y", 0 + i * 34);
+        rect.setAttribute("fill", palette[i % palette.length]);
+        svg.appendChild(rect);
+        
+        text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+        text.setAttribute("x", 320);
+        text.setAttribute("y", 18 + i * 34);
+        text.textContent = skills[i].percent + "%: " + skills[i].name;
+        
+        svg.appendChild(text);
+    }
+
+    for (i=skills.length - 1; i >= 0; i--) {
+        poly = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        svg.appendChild(poly);
+        poly.setAttribute("fill", "none");
+        poly.setAttribute("stroke", palette[i % palette.length]);
+        poly.setAttribute("cx", -115);
+        poly.setAttribute("cy", 115);
+        poly.setAttribute("r", 80);
+        poly.setAttribute("transform", "rotate(-90)");
+        poly.setAttribute("stroke-width", 64);
+        poly.setAttribute("stroke-dasharray", percentages[i] + " 1000");
+    }
+   // ]]>
+  </script>
+</svg>
