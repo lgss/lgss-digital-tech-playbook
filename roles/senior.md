@@ -18,16 +18,16 @@
 * projects alongside our project teams.
 
 
-## We listen to...
+## We listen
 
-* the team so that we understand each members personality and learning style. Building report is essential to our role when working in a dispersed team with a ranging skillset
-* our clients so that we can understand their goals and objectives. Being able to clearly interpret a client’s vision is essential when delivering projects.
-* the project team to understand any constraints and expectations when delivering for our clients. Creating the right balance between meeting our client’s goals and understanding our project teams ability it critical in delivery.
-* the management team so that we are clear about our strategic vision. In our role it’s important to champion the team’s values and beliefs to set the right example.
+* to the team so that we understand each members personality and learning style. Building report is essential to our role when working in a dispersed team with a ranging skillset
+* to our clients so that we can understand their goals and objectives. Being able to clearly interpret a client’s vision is essential when delivering projects.
+* to the project team to understand any constraints and expectations when delivering for our clients. Creating the right balance between meeting our client’s goals and understanding our project teams ability it critical in delivery.
+* to the management team so that we are clear about our strategic vision. In our role it’s important to champion the team’s values and beliefs to set the right example.
 
 
-## We speak...
+## We communicate
 
-* to our peers about their aspirations, projects and difficulties. Asking the right questions and providing thoughtful feedback are essential to the development of both an individual and the team.
+* with our peers about their aspirations, projects and difficulties. We focus on asking the right questions and providing thoughtful feedback, which is essential to the development of th eteam
 * with tech leads to ensure that our own technical decisions are consistent and competent.
-* with the Capabilities Manager. Working together, we will ensure a consistent approach between our internal peer development and any training courses and qualifications.
+* with the Capabilities Manager. Working together, we ensure a consistent approach between our internal peer development and any training courses and qualifications.
