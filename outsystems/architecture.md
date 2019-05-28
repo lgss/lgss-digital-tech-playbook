@@ -26,9 +26,7 @@ _For example_
 In order to maximise reusability, any modules created should be initalised as mutli-tenanted.
 Tenants can be added and administrated using the `Multi tenant managment` application.
 
-## Routing
-
-**Via domain name**
+## Domain based routing
 
 Domain based routing enables both anonymous and logged in users to be directed to the required tenant. Requirements for domain based routing;
 * Use the `TenantRouter` application to add and administrate a domain. Currently, the relationship between domain and tenant is one-to-one.
