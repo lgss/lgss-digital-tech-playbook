@@ -15,7 +15,7 @@ This set of steps assumes you have [Node.js and NPM](https://nodejs.org) install
 ### Using Docker
 1. Clone the repo
 1. To start, run `docker-compose up --build`
-1. To stop, use `ctrl+c / cmd+c`
+1. To stop, use `ctrl+c`
 1. `docker-compose down`
 
 ### Committing your changes
