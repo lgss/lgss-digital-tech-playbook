@@ -28,6 +28,6 @@
 
 ## We communicate
 
-* with our peers about their aspirations, projects and difficulties. We focus on asking the right questions and providing thoughtful feedback, which is essential to the development of th eteam
+* with our peers about their aspirations, projects and difficulties. We focus on asking the right questions and providing thoughtful feedback, which is essential to the development of the team
 * with tech leads to ensure that our own technical decisions are consistent and competent.
 * with the Capabilities Manager. Working together, we ensure a consistent approach between our internal peer development and any training courses and qualifications.
