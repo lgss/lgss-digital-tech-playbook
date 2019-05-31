@@ -1,11 +1,11 @@
 # Developer  
 
 ## Expectations
-* Design and build digital services that are easy to use, reliable and secure
-* Support LGSS and our customers through the development, deployment and support of digital services
-* Contribute ideas to technical discussions when designing and developing solutions
-* Work autonomously on mid-large scale projects and tasks
-* Work towards Senior Developer, in knowledge and skills
+* design and build digital services that are easy to use, reliable and secure
+* support LGSS and our customers through the development, deployment and support of digital services
+* contribute ideas to technical discussions when designing and developing solutions
+* work autonomously on mid-large scale projects and tasks
+* work towards Senior Developer, in knowledge and skills
 
 
 ## Availability
