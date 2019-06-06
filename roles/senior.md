@@ -3,7 +3,7 @@
 ## Expectations
 
 * design and build digital services that are easy to use, reliable and secure
-* support LGSS and our customers by making sure our technology meets user needs
+* support our customers by making sure our technology meets user needs
 * take a lead role on various delivery teams developing user centred, beautiful and secure digital services and software
 * help LGSS and our customers with the development, deployment and support of digital services 
 * provide support and mentorship to others in the digital services team
@@ -20,8 +20,8 @@
 
 ## We listen to...
 
-* our team, so that we understand each person's personality and learning style. 
-* our customers, so we can understand their goals and objectives. 
+* our team, so that we understand each person's personality and learning style 
+* our customers, so we can understand their goals and objectives 
 * our project team, to understand any constraints and expectations when delivering for our customers
 * our leadership team, so we are clear about our strategic vision
 
