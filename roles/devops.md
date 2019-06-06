@@ -19,8 +19,8 @@
 * monitoring, review and improvement of uptime of digital service infrastructure
 
 ## We listen to...
-* our Customers - To support and manage project development, and identify opportunities for improvement
-* our Team - To be able to offer support, improved ways of working and personal development
+* our customers - To support and manage project development, and identify opportunities for improvement
+* our team - To be able to offer support, improved ways of working and personal development
 * the wider DevOps Community - to identify good practices we can adopt and share our experiences
 
 ## We speak...
