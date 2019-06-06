@@ -2,9 +2,9 @@
 # Lead Developer 
 
 ## Expectations
-* lead LGSS and our customers through the development, deployment and support of digital services 
-* support LGSS and our customers by making sure our technology meets user needs
-* Take a lead role on various delivery teams, developing user centred, beautiful and secure digital services and software 
+* lead our customers through the development, deployment and support of digital services 
+* support our customers by making sure our technology meets user needs
+* take a lead role on various delivery teams, developing user centred, beautiful and secure digital services and software 
 * provide leadership and mentorship to others in our team
 * be an ambassador for digital services and experiences of the highest quality 
 
@@ -20,8 +20,8 @@
 ## We listen to...
 * our customers, so we can understand their goals and objectives
 * our team, so we understand each person's personality and learning style
-* our project team, to understand any constraints and expectations when delivering for our customers. 
-* our leadership team, so that we are clear about our strategic vision. 
+* our project team, to understand any constraints and expectations when delivering for our customers
+* our leadership team, so that we are clear about our strategic vision
 
 ## We speak to...
 * the business, about what they plan to do in the coming months/years
