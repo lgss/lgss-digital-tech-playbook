@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "docsify": "^4.9.4",
-    "docsify-cli": "^4.2.1"
+    "docsify-cli": "^4.3.0"
   }
 }
