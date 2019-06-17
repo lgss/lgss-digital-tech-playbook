@@ -3,7 +3,7 @@
 ## Expectations
 * to absorb knowledge and experience to aid my personal development and skills
 * to contribute to conversations and assist with planning of project work
-* to work with the delivery team to produce products that meet our customer's needs and team values
+* to work with the delivery team to produce products that meet our customers' needs and team values
 
 ## Availability
 <object data="/roles/dev0-pie.svg" type="image/svg+xml" width="650" height="230"></object>
