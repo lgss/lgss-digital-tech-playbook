@@ -15,7 +15,6 @@
 * infrastructure to support a continuous deployment environment
 * second line support of applications and infrastructure
 * regular and scheduled maintenance work
-* monitoring, review and improvement of the software development cycle
 * monitoring, review and improvement of uptime of digital service infrastructure
 
 ## We listen to...
@@ -23,6 +22,6 @@
 * our team - To be able to offer support, improved ways of working and personal development
 * the wider DevOps Community - to identify good practices we can adopt and share our experiences
 
-## We speak...
+## We speak to...
 * our customers - to be an ambassador for digital services and demonstrate our qualities
-* our Team - To share knowledge of tools and techniques, and improve our way of working
+* our team - to share knowledge of tools and techniques, and improve our way of working
