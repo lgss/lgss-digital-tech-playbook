@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  playbook:
+    container_name: lgss_tech_playbook
+    build: .
+    command: npm start
+    ports:
+    - "3000:3000" #for docsify
+    - "35729:35729" #for live reload
+    volumes:
+    - .:/var/www/html
