@@ -31,6 +31,7 @@
   * [Development](outsystems/development.md)
   * [DevOps](outsystems/devops.md)
   * [Debugging in live](outsystems/debugging.md)
+  * [Outsystems quirks](outsystems/outsystems-quirks.md)
 
   
 
