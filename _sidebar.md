@@ -33,6 +33,9 @@
   * [Debugging in live](outsystems/debugging.md)
   * [Outsystems quirks](outsystems/outsystems-quirks.md)
 
+* Firmstep
+  * [Getting Started](Firmstep/getting-started.md)
+  * [Development](Firmstep/development.md)
   
 
 <!--* Guide
