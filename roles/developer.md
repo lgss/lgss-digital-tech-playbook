@@ -1,33 +1,32 @@
-# Developer
+# Developer  
 
-## Roles
-* Senior Developer - To develop ICT solutions to support LGSS customers (from multiple organisations) in achieving cost savings and efficiencies through channel shift , self-service and automation.
-
-To innovate in the development of web based and mobile applications to deliver seamless end to end transactions that enhance the customer experience and reduce wasted effort and inefficiency.
-## Skills
-
-## Recommended training
-
-### SQL
-
-1. [w3schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-1. [SQLZoo SQL Tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
-
-### Outsystems
-
-1. [Becoming a tech lead](https://www.outsystems.com/learn/paths/17/becoming-a-tech-lead/)
-1. [Becoming a web developer](https://www.outsystems.com/learn/paths/2/becoming-a-web-developer/)
-
-### VSTS
-
-1. [New User Guide](https://docs.microsoft.com/en-us/vsts/user-guide/?view=vsts)
-
-### GIT
-
-1. [Learn Git with codeacademy](https://www.codecademy.com/learn/learn-git)
-1. [Resources to learn Git](https://try.github.io/)
-1. [Become a Git guru with Atlassan](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+## Expectations
+* design and build digital services that are easy to use, reliable and secure
+* support LGSS and our customers through the development, deployment and support of digital services
+* contribute ideas to technical discussions when designing and developing solutions
+* work autonomously on mid-large scale projects and tasks
+* work towards Senior Developer, in knowledge and skills
 
 
-## Recommended watching
+## Availability
+<object data="/roles/dev-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
+## We deliver...
+* high quality digital services that people prefer to use
+* technical design, build and test applications, forms, databases and system integrations
+* applications and processes using both traditional and low code solutions
+* support for digital services to ensure smooth and successful processes
+* project demonstrations for our customers
+
+## We listen to...
+* our customers, so we can understand their goals and objectives and make sure we meet their needs
+* digital services architects and business analysts for detail and direction in projects
+* the project team, to define requirements to meet the expectations of customers
+* scrum masters to make sure projects are on track and delivered in scope and on time!
+* the leadership team, so we are clear about our strategic vision
+
+## We speak to...
+* our project team, using slack and email to discuss development or support issues
+* our wider team to celebrate success, and feedback on achievements and learnings
+* tech leads and scrum masters to update on project progress and to discuss any development issues or blockers
+* our peaople lead, to talk about any issues or difficulties, and for general support, development and wellbeing

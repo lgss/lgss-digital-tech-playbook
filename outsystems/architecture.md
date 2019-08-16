@@ -21,6 +21,17 @@ _For example_
 _For example_
 * Module 1 is consumed by Module 2. Module 2 is consumed by Module 3. Module 3 should not consume Module 1. Cyclical dependencies will be identified by [Discovery](https://lgss-dev.outsystemsenterprise.com/Discovery/)
 
+**Mutli-tenanted as default**
+
+In order to maximise reusability, any modules created should be initalised as mutli-tenanted.
+Tenants can be added and administrated using the `Multi tenant managment` application.
+
+## Domain based routing
+
+Domain based routing enables both anonymous and logged in users to be directed to the required tenant. Requirements for domain based routing;
+* Use the `TenantRouter` application to add and administrate a domain. Currently, the relationship between domain and tenant is one-to-one.
+* Applications in the UI layer require an `OnBeingWebRequest` server action to correctly set the tenant. This action should contain the `TenantSwitchByDomain` server action which is a dependency of `TenantRouter`.
+
 ## Applications and Modules
 Applications contain at least one module, some may contain many modules.
 
@@ -43,6 +54,8 @@ _For example_
 	* PAYMENT INTEGRATION could have a module called PAYPAL_IS (integration service)
 	* PAYMENT INTEGRATION could also have a module called WORLDPAY_IS (integration service)
 	* PARKING SERVICE could have a module called PARKING_CS (core service)
+
+On creation, a modules advanced property `Is Multi-tenant` should be set to `Yes` to enable reusability across tenants.
 
 ### Core Layer
 
