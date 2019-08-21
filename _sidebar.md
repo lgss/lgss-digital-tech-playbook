@@ -30,7 +30,7 @@
   * [Architecture](outsystems/architecture.md)
   * [Development](outsystems/development.md)
   * [DevOps](outsystems/devops.md)
-  * [Debugging in live](outsystems/debugging.md)
+  * [Debugging](outsystems/debugging.md)
   * [Outsystems quirks](outsystems/outsystems-quirks.md)
 
 * Firmstep
