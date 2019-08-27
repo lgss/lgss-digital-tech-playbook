@@ -42,3 +42,21 @@ There are 4 platforms where processes can be built, each with its own styling
 
 
 
+## Login methods
+
+There are a few different options for logging in, depending on who you are and which platofrm you are logging into
+
+* **Self service**
+    * This is the customer facing login to the Self site
+    * Platform admins can also use this to access the Self Admin area
+    * You can sign up for an account on the self site, once done your permissions can be assigned by someone with access
+
+* **Office login / ADFS**
+    * This is used across all platforms (Self, Dash, Forms) and can be used by the service to log in to access submission data, to fill in staff only processes, to complete back office stages, and for developers to access the Forms platform to build and make changes to processes
+    * Clicking the office login / ADFS button from the login page will create the account and someone with access can grant you the required permissions
+
+* **Web Login**
+    * This is used by developers to log into forms without needing to be logged into a council network.
+    * This is not available on the CCC platfoms.
+    * This is done in intauth (each site deals with this differently, check with an admin)
+    
