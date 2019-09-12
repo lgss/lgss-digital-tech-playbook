@@ -52,3 +52,14 @@ Time spent on support and ops tasks should be logged on your timesheet.
 1. There's then a task for each service we support, **log your time there.**
 1. If the service you worked on isn't listed, shout in the `#lgss-digital-support` slack channel to get it added
 1. There are also Harvest timers available for your desktop and browser to make it easier if you're that way inclined.
+
+## The support call
+
+On the support call can you please follow these steps to make the call a beneficial and efficient process for everyone.
+
+1. Let the support channel know if you can't attend before 10:30
+1. Be there for 10:30! (if you're late or don't send your apologies you're singing at the next team day ¯\ (ツ) /¯)
+1. If you're not talking mute yourself
+1. If you're on support check the queue before you join the call
+1. Listen to the issues being described (you may be able to offer them advice to save them time)
+1. Be prepared with what you did yesterday, what you are doing today and if you have any blockers 
