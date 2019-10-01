@@ -1,6 +1,7 @@
 * Getting started
   * [Why does this exist?](getting-started/why.md)
   * [New developers read this](getting-started/a-warm-welcome.md)
+  * [Our technology toolkit](getting-started/our-technology-toolkit.md)
   * [Contributing to the playbook](contributing.md)
 
 * Roles
