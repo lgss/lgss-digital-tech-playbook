@@ -51,6 +51,9 @@ Strategic. Identity-assurance-as-a-service that enables solutions to give a leve
 ### AWS / Azure / GCP
 Strategic. The big three public cloud service providers evolve so quickly that it actually makes more sense to understand that organisations have a suite of tools and services available at their disposal.
 
+### [scrncpy][scrncpy]
+Ordinary. This is an open source tool used to connect an Android mobile device to a computer, to mirror the screen, for demo purposes. The mobile device must be set to development mode and have USB debugging switched on. When connected to your computer you must ensure USB tethering is selected as the type of connection. Your mobile device must be running Android 5.0 or above. This tool can be an issue for corporate devices as they tend to be locked down and developer mode might not be accessible.
+
 [hateoas]: https://en.wikipedia.org/wiki/HATEOAS
 [firmstep]: https://www.firmstep.com
 [outsystems]: https://www.outsystems.com
@@ -67,3 +70,4 @@ Strategic. The big three public cloud service providers evolve so quickly that i
 [azure-devops]: https://azure.microsoft.com/en-gb/services/devops/
 [northrow]: https://www.northrow.com/
 [pluralsight]: https://www.pluralsight.com
+[scrncpy]: https://github.com/Genymobile/scrcpy
