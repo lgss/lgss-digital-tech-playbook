@@ -12,7 +12,7 @@ A feature of the [discovery](https://lgss-dev.outsystemsenterprise.com/Discovery
 ### Solutions
 Before deploying it's important to make sure that all references are up to date. A simple way to achieve this is by creating and maintaining a solution. A solution enables outsystems to handle updating modules in the correct order.
 
-The naming convention currently use for solutions is `Application_{name of application}`
+The naming convention currently used for solutions is `Application_{name of application}`
 
 **Further reading:** [Deploying applications through service centre](https://success.outsystems.com/Support/Enterprise_Customers/Troubleshooting/Deploy_applications_through_Service_Center)
 
