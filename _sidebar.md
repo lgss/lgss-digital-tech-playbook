@@ -21,6 +21,7 @@
   * [Types of work in Ops](support/two-types-of-work.md)
 
 * Development
+  * [Accessibility](development/accessibility.md)
   * [Code](development/code.md)
   * [Tech Review](development/tech-review.md)
   * [Testing](development/testing.md)
