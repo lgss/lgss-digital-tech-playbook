@@ -14,7 +14,7 @@ We are doing this by building with accessibility in mind from the very start and
 
  **Example:** pop-up calendars should also let users type in a date
 
-2. HTML is valid (using a [validator service](https://validator.w3.org/)
+2. HTML is valid (using a [validator service](https://validator.w3.org/))
     * Have complete start and end tags, are nested, according to their specs, do not contain duplicate attributes, any IDs are unique
 
 3. If the web content sets a timer, the user must have the option to adjust/extend it
