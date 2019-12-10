@@ -58,7 +58,7 @@ Time spent on support and ops tasks should be logged on your timesheet.
 On the support call can you please follow these steps to make the call a beneficial and efficient process for everyone.
 
 1. Let the support channel know if you can't attend before 10:30
-1. Be there for 10:30! (if you're late or don't send your apologies you're singing at the next team day ¯\ (ツ) /¯)
+1. Be there for 10:15! (if you're late or don't send your apologies you're singing at the next team day ¯\ (ツ) /¯)
 1. If you're not talking mute yourself
 1. If you're on support check the queue before you join the call
 1. Listen to the issues being described (you may be able to offer them advice to save them time)
