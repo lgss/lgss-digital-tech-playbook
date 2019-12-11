@@ -1,5 +1,5 @@
 # Accessibility
-Accessibility is makimg services that everyone can use regardless of their ability or circumstance.
+Accessibility is making services that everyone can use regardless of their ability or circumstance.
 
 ## Why should we care?
 All public sector digital services are required by law to meet the AA standard of the [W3C Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/).
@@ -19,6 +19,8 @@ We are doing this by building with accessibility in mind from the very start and
 
 3. If the web content sets a timer, the user must have the option to adjust/extend it
 
+ **Example:** Where an application has a session time out, this timer needs to be extendable by the form filler (or be at least 20  hours)
+
 4. A mechanism to allow the users to exit/remove repetitive blocks of content 
 
  **Example:** Skip to content at the top of the page to bypass common nav bar
@@ -26,6 +28,8 @@ We are doing this by building with accessibility in mind from the very start and
 5. If an input error is automatically detected, it can be identified and described to the user in text
 
 6. Text can be resized (without assistive technology) up to 200% without loss of content or functionality
+
+ **Example:** Using ctrl/cmd * scroll should not break the flow of the content
 
 7.	For single pointer functionality:
     * Down-event (e.g. mouse button pressing) is not used to execute function OR
