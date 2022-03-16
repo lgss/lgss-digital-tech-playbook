@@ -9,7 +9,7 @@
 
 
 ## Availability
-<object data="/roles/dev-pie.svg" type="image/svg+xml" width="650" height="230"></object>
+<object data="roles/dev-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
 ## We deliver...
 * high quality digital services that people prefer to use

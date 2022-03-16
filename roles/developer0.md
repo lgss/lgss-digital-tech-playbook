@@ -6,7 +6,7 @@
 * to work with the delivery team to produce products that meet our customers' needs and team values
 
 ## Availability
-<object data="/roles/dev0-pie.svg" type="image/svg+xml" width="650" height="230"></object>
+<object data="roles/dev0-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
 ## We deliver...
 * projects 
