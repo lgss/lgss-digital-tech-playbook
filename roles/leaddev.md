@@ -9,7 +9,7 @@
 * be an ambassador for digital services and experiences of the highest quality 
 
 ## Availability
-<object data="/roles/lead-pie.svg" type="image/svg+xml" width="650" height="230"></object>
+<object data="roles/lead-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
 ## We deliver...
 * projects and solutions that improve and streamline business processes

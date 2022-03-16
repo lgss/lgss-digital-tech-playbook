@@ -7,7 +7,7 @@
 * provide leadership and mentorship to others in the digital services team
 
 ## Availability
-<object data="/roles/devops-pie.svg" type="image/svg+xml" width="650" height="230"></object>
+<object data="roles/devops-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
 ## We deliver...
 * development and support for the LGSS digital service

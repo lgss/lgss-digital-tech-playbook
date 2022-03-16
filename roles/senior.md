@@ -9,7 +9,7 @@
 * provide support and mentorship to others in the digital services team
 
 ## Availability
-<object data="/roles/senior-pie.svg" type="image/svg+xml" width="650" height="230"></object>
+<object data="roles/senior-pie.svg" type="image/svg+xml" width="650" height="230"></object>
 
 ## We deliver...
 
